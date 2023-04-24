@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omensploit V2 Paied", "Omensploit V2 Paied\Omensploit V2 Paied.csproj", "{408DC742-E9BA-44C2-9605-23F40FC9BC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408DC742-E9BA-44C2-9605-23F40FC9BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408DC742-E9BA-44C2-9605-23F40FC9BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408DC742-E9BA-44C2-9605-23F40FC9BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408DC742-E9BA-44C2-9605-23F40FC9BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A03AEFD9-0DE1-4173-909E-6530E0B44732}
+	EndGlobalSection
+EndGlobal

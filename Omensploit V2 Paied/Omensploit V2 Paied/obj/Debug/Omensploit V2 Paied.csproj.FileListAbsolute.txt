@@ -1,0 +1,13 @@
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit V2 Paied.csproj.AssemblyReference.cache
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit V2 Paied.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit_V2_Paied.Form1.resources
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit V2 Paied.csproj.GenerateResource.cache
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit V2 Paied.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit_V2_Paied.Form2.resources
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit_V2_Paied.Form3.resources
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit_V2_Paid.Properties.Resources.resources
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\bin\Debug\Omensploit V2 Paid Login.exe.config
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\bin\Debug\Omensploit V2 Paid Login.exe
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\bin\Debug\Omensploit V2 Paid Login.pdb
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit V2 Paid Login.exe
+C:\Users\antho\Downloads\Sorcev2.1.NetCode3\Omensploit V2 Paied\Omensploit V2 Paied\obj\Debug\Omensploit V2 Paid Login.pdb
